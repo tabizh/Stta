@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverity SYSTEM "config.dtd">
+<coverity>
+
+<metrics>
+    <metric>
+        <name>time</name>
+        <value>14</value>
+    </metric>
+    <metric>
+        <name>args</name>
+        <value>cov-build --dir C:\Users\Tabish\Desktop\Cover gcc hi.c</value>
+    </metric>
+    <metric>
+        <name>host</name>
+        <value>HP-TZ</value>
+    </metric>
+    <metric>
+        <name>short-platform</name>
+        <value>win64</value>
+    </metric>
+    <metric>
+        <name>platform</name>
+        <value>Windows 10 (Unknown Edition number 100), 64-bit (build 19043)</value>
+    </metric>
+    <metric>
+        <name>ident</name>
+        <value>2021.12.1 (build 5269ff0e19 p-2021.12-push-625)</value>
+    </metric>
+    <metric>
+        <name>user</name>
+        <value>Tabish</value>
+    </metric>
+    <metric>
+        <name>cwd</name>
+        <value>C:\Users\Tabish\Desktop\Cover</value>
+    </metric>
+    <metric>
+        <name>config</name>
+        <value>C:\Users\Tabish\Downloads\cov-analysis-win64-2021.12.1\config\coverity_config.xml</value>
+    </metric>
+    <metric>
+        <name>intermediatedir</name>
+        <value>C:\Users\Tabish\Desktop\Cover</value>
+    </metric>
+    <metric>
+        <name>outputdir</name>
+        <value>C:\Users\Tabish\Desktop\Cover\output</value>
+    </metric>
+    <metric>
+        <name>emitdir</name>
+        <value>C:\Users\Tabish\Desktop\Cover\emit</value>
+    </metric>
+    <metric>
+        <name>force</name>
+        <value>no</value>
+    </metric>
+    <metric>
+        <name>cygwin</name>
+        <value>no</value>
+    </metric>
+    <metric>
+        <name>failures</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>successes</name>
+        <value>1</value>
+    </metric>
+    <metric>
+        <name>recoverable-errors</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapps-detected</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapp-successes</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapp-compilation-secs</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>buildcmd</name>
+        <value>gcc.exe hi.c</value>
+    </metric>
+</metrics>
+</coverity>

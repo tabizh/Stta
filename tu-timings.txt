@@ -1,0 +1,5 @@
+Translation unit:
+1 -> C:/Users/Tabish/Desktop/Cover/hi.c
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 4
+cov-build invocation time (seconds): 14
